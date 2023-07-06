@@ -8,8 +8,8 @@ Over the years, I have worked with clients from different industries, including 
 
 If you are looking for a freelance cross-platform app developer who can deliver high-quality solutions on time and within budget, look no further. I would be happy to discuss your project and provide a custom quote. Feel free to reach out to me anytime!
 
-- 📫 How to reach me: team@lafetype.com
-- 🌏 My Website: https://lafetype.com/
+📫 How to reach me: team@lafetype.com<br>
+🌏 My Website: https://lafetype.com/
 
 <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
 <img src="{https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white}" />
