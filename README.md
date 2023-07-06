@@ -11,6 +11,6 @@ If you are looking for a freelance cross-platform app developer who can deliver 
 - 📫 How to reach me: team@lafetype.com
 - 🌏 My Website: https://lafetype.com/
 
-![image]({https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
-![image]({https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white})
-![image]({https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white})
+<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
+<img src="{https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white}" />
+<img src="{https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white}" />
