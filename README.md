@@ -11,6 +11,4 @@ If you are looking for a freelance cross-platform app developer who can deliver 
 📫 How to reach me: team@lafetype.com<br>
 🌏 My Website: https://lafetype.com/
 
-<img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
-<img src="{https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white}" />
-<img src="{https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white}" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lafexx&repo=cyclone)](https://github.com/lafexx/Cyclone)
