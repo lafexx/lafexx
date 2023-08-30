@@ -6,4 +6,4 @@ I am an app developer with over 3 years of experience in the field. My expertise
 - 🌏 My Website: https://lafetype.com/
 
 <br/><br/>
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,docker,azure,cpp,git,kubernetes,unity,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,docker,azure,cpp,git,kubernetes,unity,tailwind)](https://skillicons.dev)
