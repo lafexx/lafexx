@@ -1,6 +1,6 @@
 ### Hey, I'm Lewis 👋
 
-I am a full-stack developer with over 3 years of experience in the field. My expertise lies in using C#, JS, TS, and T-SQL in combination with .NET, React, MSSQL, and Docker to develop high-quality applications that can run on different platforms.
+I am a full-stack developer with over 3 years of experience in the field. I use ASP.NET, .NET, React, Next.js, AWS, Azure, Docker, Jenkins, Github Actions, xUnit, Jest, and other technologies to create highly scalable cross-platform applications deployed in the cloud.
 
 - 📫 How to reach me: team@lafetype.com<br>
 - 🌏 My Website: https://lafetype.com/
