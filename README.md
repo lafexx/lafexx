@@ -6,4 +6,4 @@ I am a full-stack developer with over 3 years of experience in the field. My exp
 - 🌏 My Website: https://lafetype.com/
 
 <br/><br/>
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,docker,azure,cpp,git,jenkins,jest,unity,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,docker,azure,aws,cpp,git,jenkins,jest,unity,tailwind)](https://skillicons.dev)
